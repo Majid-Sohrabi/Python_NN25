@@ -9,6 +9,6 @@
 I will collect your home assignment solutions through private GitHub repositories that you need to create. If you haven't done so yet, please provide your information about your homework repository through the Google form (see the main pinned message in course chat).
 
 
-| 01 |  |  |
+| 01 | [[HW1_Python]-YOUR_NAME.ipynb](0-Homework/[HW1_Python]-YOUR_NAME.ipynb) | December 9, 23:59 |
 | -- | ---------------------------- | ------- |
 | 02 |  |  |
